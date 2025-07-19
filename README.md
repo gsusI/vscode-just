@@ -1,5 +1,7 @@
 # just
 
+> **Note:** This is a maintained fork of the original [skellock/vscode-just](https://github.com/skellock/vscode-just) repository, which has been archived. This fork aims to continue maintaining and improving the VS Code Just extension.
+
 A `Just` language syntax for colourizing your `justfile`s and running recipes.
 
 ![Just in Code](images/just-demo.gif)
